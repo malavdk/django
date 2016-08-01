@@ -1,0 +1,187 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file_",
+				"file_password"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"session_",
+				"session_destroy"
+			],
+			[
+				"publish",
+				"published_date"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/myphp/index.php",
+		"/C/xampp/htdocs/myphp/connect.inc.php",
+		"/C/xampp/htdocs/myphp/readingxml.php",
+		"/C/xampp/htdocs/myphp/example.xml",
+		"/C/xampp/htdocs/myphp/mail.php",
+		"/C/xampp/htdocs/myphp/hash.txt",
+		"/C/xampp/htdocs/myphp/count.php",
+		"/C/xampp/htdocs/myphp/ip.txt",
+		"/C/xampp/htdocs/myphp/count.txt",
+		"/C/xampp/htdocs/myphp/view.php",
+		"/C/xampp/htdocs/myphp/unset.php",
+		"/C/xampp/htdocs/myphp/set.php",
+		"/C/xampp/htdocs/myphp/upload.php",
+		"/C/xampp/htdocs/myphp/form.php",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/templates/blog/post_list.html",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/templates/blog/forms.py",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/templates/blog/post_edit.html",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/templates/blog/add_comment_to_post.html",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/static/css/blog.css",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/admin.py",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/models.py",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/mysite/settings.py",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/templates/registration/login.html",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/mysite/urls.py",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/urls.py",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/templates/blog/base.html",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/templates/blog/post_draft_list.html",
+		"/C/xampp/htdocs/lundlelo/form.php",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/views.py",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/templates/blog/post_detail.html",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/forms.py",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/apps.py",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/templates/blog/post_new.html",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/blog/templete/blog/post_list.html",
+		"/C/Users/Dinesh/Desktop/djangogirls/myenv/mysite/manage.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}
